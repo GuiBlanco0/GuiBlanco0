@@ -7,22 +7,26 @@ Long-term goal: Robotics engineering and cybersecurity research.
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<p align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight)
+<img
 
----
+height="170"
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight&include_all_commits=true" />
-    </td>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+src="https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+
+/>
+
+
+<img
+
+height="170"
+
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&theme=tokyonight&layout=compact&custom_title=Linguagens"
+
+/>
+
+</p>
 
 ---
 
