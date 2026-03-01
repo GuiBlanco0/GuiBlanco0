@@ -5,8 +5,6 @@
 Computer Science student focused on building solid foundations in low-level programming and systems.
 Long-term goal: Robotics engineering and cybersecurity research.
 
----
-
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
@@ -16,7 +14,7 @@ Long-term goal: Robotics engineering and cybersecurity research.
   />
 </p>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
