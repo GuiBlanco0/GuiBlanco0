@@ -8,6 +8,7 @@ Long-term goal: Robotics engineering and cybersecurity research.
 ## 📊 Estatísticas
 
 <p align="center">
+  
   <img 
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
@@ -17,6 +18,7 @@ Long-term goal: Robotics engineering and cybersecurity research.
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&theme=tokyonight&layout=compact&custom_title=Linguagens"
   />
+  
 </p>
 
 ---
