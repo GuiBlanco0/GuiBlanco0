@@ -7,6 +7,12 @@ Long-term goal: Robotics engineering and cybersecurity research.
 
 ## 📊 Estatísticas
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight)
+
+---
+
 <table align="center">
   <tr>
     <td align="center">
