@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Blanco
 
-**`Estudante de Ciência da Computação`**
+**`Computer Science Student`**
 
 Computer Science student focused on building solid foundations in low-level programming and systems.
 Long-term goal: Robotics engineering and/or cybersecurity
