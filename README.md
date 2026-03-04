@@ -5,7 +5,7 @@
 Computer Science student focused on building solid foundations in low-level programming and systems.
 Long-term goal: Robotics engineering and/or cybersecurity
 
-## 🔥 Sequência de Contribuições
+## 🔥 Contribution Streak
 
 <p align="center">
   <img 
@@ -14,5 +14,6 @@ Long-term goal: Robotics engineering and/or cybersecurity
   />
 </p>
 
-## Stats 
-[![GuiBlanco0's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiBlanco0)](https://github.com/GuiBlanco0/github-readme-stats)
+Testing 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0)
