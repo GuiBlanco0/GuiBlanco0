@@ -13,7 +13,3 @@ Long-term goal: Robotics engineering and/or cybersecurity
     src="https://streak-stats.demolab.com?user=GuiBlanco0&theme=tokyonight&locale=pt_BR"
   />
 </p>
-
-Testing 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0)
