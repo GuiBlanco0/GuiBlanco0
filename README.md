@@ -5,12 +5,16 @@ Long-term goal: Robotics engineering and/or cybersecurity
 
 ## 📊 Stats
 
-<div align="center">
-  <a href="https://github.com/GuiBlanco0/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight"/>
-  </a>
-  <img height="180em" src="https://streak-stats.demolab.com?user=GuiBlanco0&theme=tokyonight&locale=en"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight"/>
+    </td>
+    <td>
+      <img height="180em" src="https://streak-stats.demolab.com?user=GuiBlanco0&theme=tokyonight&locale=en"/>
+    </td>
+  </tr>
+</table>
 
 ## 🐍 Contribution
 
