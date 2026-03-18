@@ -8,11 +8,12 @@ Long-term goal: Robotics engineering and/or cybersecurity
 <div>
 <h3>my stats</h3>
 <div align="center">
-<a href="https://github.com/juiyya">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=dark&cachebust=20251021%22/>
+<a href="https://github.com/GuiBlanco0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight&cachebust=20251021%22/>
 </a>
-<a href="https://github.com/juiyya/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=dark"/>
+<a href="https://github.com/GuiBlanco0/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=GuiBlanco0&theme=tokyonight&locale=en"
 </a>
 </div>
 
