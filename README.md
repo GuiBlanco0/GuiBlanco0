@@ -18,9 +18,13 @@ Long-term goal: Robotics engineering and/or cybersecurity
 
 ## 🐍 Contribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div> 
+<picture>
+<source media="(prefers-color-scheme: tokyonight)" srcset="https://raw.githubusercontent.com/GuiBlanco0/GuiBlanco0/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: tokyonight)" srcset="https://raw.githubusercontent.com/GuiBlanco0/GuiBlanco0/output/github-snake.svg"/>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuiBlanco0/GuiBlanco0/output/github-snake.svg"/>
+</picture>
+</div>
 
 ## 🤖 Languages and Technologies
 <p>
