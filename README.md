@@ -6,7 +6,7 @@ Long-term goal: Robotics engineering and/or cybersecurity
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GuiBlanco0a&show_icons=true&theme=dark" alt="GitHub Readme Profile" width="400"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=dark" alt="GitHub Readme Profile" width="400"/>
   </a> 
       <a href="https://github.com/juiyya">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=dark" alt="most used languages" width="357" />
