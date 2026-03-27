@@ -1,25 +1,53 @@
-# Guilherme Blanco
+<div align="center">
+  <h1>nice to meet you, i'm Gui 👋</h1>
 
-Computer Science student focused on building solid foundations in low-level programming and systems.  
-Long-term goal: Robotics engineering and/or cybersecurity
+  <div>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="coding gif" width="300">
+  </div>
 
-## 📊 Stats
+  <h3>about me</h3>
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight"/>
-    </td>
-    <td>
-      <img height="180em" src="https://streak-stats.demolab.com?user=GuiBlanco0&theme=tokyonight&locale=en"/>
-    </td>
-  </tr>
-</table>
+  <p>
+  - Computer Science student <br>
+  - focused on low-level programming and systems <br>
+  - aiming for robotics engineering / cybersecurity <br>
+  </p>
 
-## 🤖 Languages and Technologies
+  <h3>languages and tools</h3>
 
-<p>
-  <img alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-</p>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  </div>
+
+  <h3>my stats</h3>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=tokyonight" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=tokyonight" width="335"/>
+  </div>
+
+  <br>
+
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiBlanco0/GuiBlanco0/output/github-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiBlanco0/GuiBlanco0/output/github-snake.svg"/>
+      <img alt="snake animation" src="https://raw.githubusercontent.com/GuiBlanco0/GuiBlanco0/output/github-snake.svg"/>
+    </picture>
+  </div>
+
+  <h3>contact</h3>
+
+  <div>
+    <a href="mailto:seuemail@email.com">
+      <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logoColor=white"/>
+    </a>
+  </div>
+
+</div>
