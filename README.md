@@ -11,7 +11,6 @@ Long-term goal: Robotics engineering and/or cybersecurity
   </a>
    <img
     src="https://github-readme-stats-fast.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=midnight-purple"
-    width="352"
   />
 </div>
 
