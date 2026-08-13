@@ -7,7 +7,7 @@ Long-term goal: Robotics engineering and/or cybersecurity
 
 <div>
   <a href="https://github.com/GuiBlanco0">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=midnightdark" width="357" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=midnight-dark" width="357" />
   </a>
 </div>
 
