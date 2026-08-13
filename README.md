@@ -5,6 +5,21 @@ Long-term goal: Robotics engineering and/or cybersecurity
 
 ## 📊 Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em"
+        src="https://github-readme-stats-fast.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=dark"/>
+      </td>
+      <td>
+        <img height="180em"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=dark"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🤖 Languages and Technologies
 
