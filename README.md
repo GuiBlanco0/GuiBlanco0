@@ -3,7 +3,7 @@
 Computer Science student focused on building solid foundations in low-level programming and systems.  
 Long-term goal: Robotics engineering and/or cybersecurity
 
-## 📊 Stats
+##Stats
 
 <div>
   <a href="https://github.com/GuiBlanco0">
@@ -14,7 +14,7 @@ Long-term goal: Robotics engineering and/or cybersecurity
   />
 </div>
 
-## 🤖 Languages and Technologies
+##Languages and Technologies
 
 <p>
   <img alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
