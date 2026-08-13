@@ -10,11 +10,11 @@ Long-term goal: Robotics engineering and/or cybersecurity
     <tr>
       <td>
         <img height="180em"
-        src="https://github-readme-stats-fast.vercel.app/api?username=GuiBlanco0&show_icons=true&theme=dark"/>
+        src="https://github-readme-stats-fast.vercel.app/api?username=&show_icons=true&theme=dark"/>
       </td>
       <td>
         <img height="180em"
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuiBlanco0&layout=compact&theme=dark"/>
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=&layout=compact&theme=dark"/>
       </td>
     </tr>
   </table>
