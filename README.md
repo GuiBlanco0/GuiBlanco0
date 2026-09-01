@@ -25,5 +25,7 @@ Long-term goal: Robotics engineering and/or cybersecurity
   <img alt="HTML" title="HTML" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img alt="react" title="react" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
   
 </p>
